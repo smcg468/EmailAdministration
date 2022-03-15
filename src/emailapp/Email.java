@@ -22,7 +22,7 @@ public class Email {
     private String company = "company.com";
     private String alternateEmail;
     
-    //Constructor will recieve full name
+    //Constructor will receive full name
     public Email (String firstName, String lastName){
         this.firstName = firstName;
         this.lastName = lastName;
